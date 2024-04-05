@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/iadityasingh7/sky_scope/static/css/main.0b06f1b9.css",
+    "main.js": "/iadityasingh7/sky_scope/static/js/main.bd19cc77.js",
+    "static/js/453.df909cea.chunk.js": "/iadityasingh7/sky_scope/static/js/453.df909cea.chunk.js",
+    "index.html": "/iadityasingh7/sky_scope/index.html",
+    "main.0b06f1b9.css.map": "/iadityasingh7/sky_scope/static/css/main.0b06f1b9.css.map",
+    "main.bd19cc77.js.map": "/iadityasingh7/sky_scope/static/js/main.bd19cc77.js.map",
+    "453.df909cea.chunk.js.map": "/iadityasingh7/sky_scope/static/js/453.df909cea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b06f1b9.css",
+    "static/js/main.bd19cc77.js"
+  ]
+}
